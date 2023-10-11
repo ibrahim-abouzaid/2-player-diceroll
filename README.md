@@ -1,16 +1,7 @@
 # diceroll
 
 A new Flutter project.
+this is 2 player mini game dice roll, very simple and with smooth animation when roll the dice
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Screenshot
+![0d8bbaa4-c99b-4aa5-85de-cd6f30af2d76](https://github.com/ibrahim-abouzaid/2-player-diceroll/assets/104421529/9d2922b4-45bd-4703-8091-45809f23b4cb)
